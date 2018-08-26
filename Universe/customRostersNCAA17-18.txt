@@ -2118,7 +2118,7 @@ Georgia,Isaac Nauta,TE,2,9
 Georgia,Jeb Blazevich,TE,4,8
 Georgia,Jackson Harris,TE,3,7
 Georgia,Charlie Woerner,TE,2,7
-Georgia,Terry Godwin,WR,3,9
+Georgia,Terry Roberts, WR,9,9
 Georgia,Javon Wims,WR,4,8
 Georgia,Mecole Hardman,WR,2,8
 Georgia,Michael Chigbu,WR,3,8
